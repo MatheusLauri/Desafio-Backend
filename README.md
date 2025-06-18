@@ -1,5 +1,6 @@
 # Desafio-Backend
 📚 Sumário
+
 Visão Geral
 
 Estrutura do Projeto
@@ -16,9 +17,11 @@ Infraestrutura com Docker
 
 
 📖 Visão Geral
-O RentChallenge é uma aplicação backend voltada para o controle de frota e entregadores, com suporte a operações de locação, integração com fila de eventos e armazenamento de imagens de CNH.
+
+O Desafio-Backend é uma aplicação backend voltada para o controle de frota e entregadores, com suporte a operações de locação, integração com fila de eventos e armazenamento de imagens de CNH.
 
 🏗️ Estrutura do Projeto
+
 Domain: Contém as entidades de negócio, interfaces e regras puras da aplicação.
 
 Application: Camada responsável por serviços, validações, DTOs, mapeamentos e lógica de orquestração.
