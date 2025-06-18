@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Desafio-BackEnd-feature-desafio",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.API",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.API\\Controllers",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.API\\Middlewares",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.Application",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.Application\\Interfaces",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.Application\\Interfaces\\APIs",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.Application\\Mappers",
+    "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.Application\\Messaging"
+  ],
+  "SelectedNode": "\\Desafio-BackEnd-feature-desafio\\RentChallenge\\RentChallenge.Application\\Messaging\\RabbitMqPublisher.cs",
+  "PreviewInSolutionExplorer": false
+}
