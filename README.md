@@ -14,7 +14,6 @@ Funcionalidades e Casos de Uso
 
 Infraestrutura com Docker
 
-Contato
 
 📖 Visão Geral
 O RentChallenge é uma aplicação backend voltada para o controle de frota e entregadores, com suporte a operações de locação, integração com fila de eventos e armazenamento de imagens de CNH.
